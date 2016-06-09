@@ -36,3 +36,11 @@
 *.elf
 *.pbi
 *.cout
+#EWARM files
+*.sim
+*.browse
+*.wsdt
+*.wspos
+*.crun
+*.dni
+*.dbgdt
